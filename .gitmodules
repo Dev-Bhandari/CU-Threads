@@ -1,0 +1,6 @@
+[submodule "CU-Threads-Frontend"]
+	path = CU-Threads-Frontend
+	url = https://github.com/Dev-Bhandari/CU-Threads-Frontend
+[submodule "CU-Threads-Backend"]
+	path = CU-Threads-Backend
+	url = https://github.com/Dev-Bhandari/CU-Threads-Backend
